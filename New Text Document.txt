@@ -1,0 +1,2 @@
+<html>
+This is the sample code snipet to test pool scm in jenkins
