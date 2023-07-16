@@ -1,0 +1,5 @@
+---
+- hosts: ansible
+  tasks:
+  - name: create a docker image
+    command: docker built -t tomcat-image .
